@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I am a passionate software developer with a keen i
 
 ## 🛠️ Technologies & Tools
 - Languages: ![PHP](https://img.shields.io/badge/-Php-333333?style=flat&logo=php) ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) ![SQL](https://img.shields.io/badge/-Java-333333?style=flat&logo=sql)
 - Frameworks: ![Codeigniter](https://img.shields.io/badge/-Codeigniter-333333?style=flat&logo=codeigniter) ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
 - Tools: ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code)
 
