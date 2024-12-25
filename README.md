@@ -22,6 +22,7 @@ Welcome to my GitHub profile! I am a passionate software developer with a keen i
 
 ## 🏆 Top Repositories
 [![Wilayah](https://github-readme-stats.vercel.app/api/pin/?username=cahyadsn&repo=wilayah&theme=radical)](https://github.com/cahyadsn/wilayah)
-[![Wilayah Boundaries](https://github-readme-stats.vercel.app/api/pin/?username=cahyadsn&repo=wilayah_boundaries&theme=radical)](https://github.com/cahyadsn/wilayah_boundaries)
+[![Wilayah Boundaries](https://github-readme-stats.vercel.app/api/pin/?username=cahyadsn&repo=disc&theme=radical)](https://github.com/cahyadsn/disc)
+[![Wilayah Boundaries](https://github-readme-stats.vercel.app/api/pin/?username=cahyadsn&repo=db_rajaongkir&theme=radical)](https://github.com/cahyadsn/db_rajaongkir)
 
 Thank you for visiting my profile. Have a great day! 😄
