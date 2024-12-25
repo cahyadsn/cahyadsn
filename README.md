@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I am a passionate software developer with a keen i
 ![Cahya's GitHub stats](https://github-readme-stats.vercel.app/api?username=cahyadsn&show_icons=true&theme=radical)
 
 ## 🏆 Top Repositories
-[![Wilayah](https://github-readme-stats.vercel.app/api/pin/?username=cahyadsn&repo=rwilayah&theme=radical)](https://github.com/cahyadsn/wilayah)
+[![Wilayah](https://github-readme-stats.vercel.app/api/pin/?username=cahyadsn&repo=wilayah&theme=radical)](https://github.com/cahyadsn/wilayah)
 [![Wilayah Boundaries](https://github-readme-stats.vercel.app/api/pin/?username=cahyadsn&repo=wilayah_boundaries&theme=radical)](https://github.com/cahyadsn/wilayah_boundaries)
 
 Thank you for visiting my profile. Have a great day! 😄
