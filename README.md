@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Cahya! 👋
 
-<!--
-**cahyadsn/cahyadsn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I am a passionate software developer with a keen interest in web development, data science, and open source projects. Here's a bit more about me:
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🔭 I’m currently working on [Wilayah](https://github.com/cahyadsn/wilayah)
+- 📫 How to reach me: [Email](mailto:cahyadsn@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Tools
+- Languages: ![PHP](https://img.shields.io/badge/-Php-333333?style=flat&logo=php) ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+- Frameworks: ![Codeigniter](https://img.shields.io/badge/-Codeigniter-333333?style=flat&logo=codeigniter) ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
+- Tools: ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code)
+
+## 🌐 Connect with Me
+- [LinkedIn](https://linkedin.com/in/cahyadsn)
+- [Twitter](https://twitter.com/cahyadsn)
+- [Personal Website/Blog](https://cahyadsn.com)
+
+## 📈 GitHub Stats
+![Cahya's GitHub stats](https://github-readme-stats.vercel.app/api?username=cahyadsn&show_icons=true&theme=radical)
+
+## 🏆 Top Repositories
+[![Wilayah](https://github-readme-stats.vercel.app/api/pin/?username=cahyadsn&repo=repo-name&theme=radical)](https://github.com/cahyadsn/wilayah)
+[![Wilayah Boundaries](https://github-readme-stats.vercel.app/api/pin/?username=cahyadsn&repo=repo-name&theme=radical)](https://github.com/cahyadsn/wilayah_boundaries)
+
+Thank you for visiting my profile. Have a great day! 😄
