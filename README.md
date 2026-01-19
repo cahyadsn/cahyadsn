@@ -9,6 +9,7 @@ Welcome to my GitHub profile! I am a passionate software developer with a keen i
     -  [wilayah_ref](https://github.com/cahyadsn/wilayah_ref)
     -  [wilayah_boundaries](https://github.com/cahyadsn/wilayah_boundaries)
     -  [wilayah_kodepos](https://github.com/cahyadsn/wilayah_kodepos)
+    -  [wilayah_logo](https://github.com/cahyadsn/wilayah_logo)
   - psychometry
     -  [DiSC](https://github.com/cahyadsn/disc)
     -  [Papi Kostick](https://github.com/cahyadsn/papi)
