@@ -19,9 +19,6 @@ Welcome to my GitHub profile! I am a passionate software developer with a keen i
     -  [KTS 2](https://github.com/cahyadsn/kts-2-questionnarie)
 - 📫 How to reach me: [Email](mailto:cahyadsn@gmail.com)
 
-## 📈 GitHub Stats
-![Cahya's GitHub stats](https://github-readme-stats.vercel.app/api?username=cahyadsn&show_icons=true&theme=radical)
-
 ## 🏆 Top Repositories
 [![Wilayah](https://github-readme-stats.vercel.app/api/pin/?username=cahyadsn&repo=wilayah&theme=radical)](https://github.com/cahyadsn/wilayah)
 [![DISC](https://github-readme-stats.vercel.app/api/pin/?username=cahyadsn&repo=disc&theme=radical)](https://github.com/cahyadsn/disc)
