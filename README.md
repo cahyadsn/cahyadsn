@@ -23,6 +23,7 @@ Welcome to my GitHub profile! I am a passionate software developer with a keen i
 <ul>
 <li> DiSC (https://github.com/cahyadsn/disc)</li>
 <li> Papi Kostick (https://github.com/cahyadsn/papi)</li>
+<li> MBTI (private repository)</li>	
 <li> BFI (https://github.com/cahyadsn/bfi)</li>
 <li> MMPI (https://github.com/cahyadsn/mmpi)</li>
 <li> SDS (https://github.com/cahyadsn/sds)</li>
