@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I am a passionate software developer with a keen i
 <tr>
 <td>
 <div>
-<b>wilayah</b>
+<h2>🌍 wilayah</h2>
 <ul>
 <li> wilayah (https://github.com/cahyadsn/wilayah)</li>
 <li> wilayah_web (private repository)</li>
@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I am a passionate software developer with a keen i
 </td>
 <td>
 <div>
-<b>psychometry</b>
+<h2>🩺 psychometry</h2>
 <ul>
 <li> DiSC (https://github.com/cahyadsn/disc)</li>
 <li> Papi Kostick (https://github.com/cahyadsn/papi)</li>
