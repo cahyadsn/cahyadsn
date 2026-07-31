@@ -83,6 +83,4 @@ Welcome to my GitHub profile! I am a passionate software developer with a keen i
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
 
-- 📫 How to reach me: [Email](mailto:cahyadsn@gmail.com)
-
 Thank you for visiting my profile. Have a great day! 😄
