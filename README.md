@@ -1,10 +1,18 @@
-# Hi there, I'm Cahya! 👋
-<p align = "center">
-	<img src = "https://komarev.com/ghpvc/?username=cahyadsn&style=plastic&color=blueviolet" alt = "Profile Views"/>
-</p>
-Welcome to my GitHub profile! I am a passionate software developer with a keen interest in web development, data science, and open source projects. Here's a bit more about me:
+<img src="https://github.com/cahyadsn/cahyadsn/blob/main/tiger.png" alt = "typing vibe tiger" align="left" width="200"/>
 
-## 🚀 About Me
+# Hi there, I'm <b>Cahya DSN</b>! 👋
+<p>
+<div align = "center">
+	<img src = "https://komarev.com/ghpvc/?username=cahyadsn&style=plastic&color=blueviolet" alt = "Profile Views"/>
+</div>
+ Welcome to my GitHub profile!</p>
+ <p>I am a passionate software developer with a keen interest in web development, data science, and open source projects.</p>
+ <p>There's no instant success, but just believe '<i>imposible is nothing</i>'</p>
+ <p>
+	 Here's a bit more about my repo:
+</p>
+
+## 🚀 My Repos
 🔭 I’m currently working on :
 <table>
 <tbody>
