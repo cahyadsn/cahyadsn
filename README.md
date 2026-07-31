@@ -41,6 +41,41 @@ Welcome to my GitHub profile! I am a passionate software developer with a keen i
 </div>
 </td>
 </tr>
+<tr>
+<td>
+<div>
+<h2>🕌 Islamic Application</h2>
+<ul>
+<li> Halal (https://github.com/cahyadsn/halal)</li>
+<li> Imsak (https://github.com/cahyadsn/imsak)</li>
+<li> NeoAdzan (https://github.com/cahyadsn/neoadzan)</li>
+<li> NeoHadits (https://github.com/cahyadsn/neohadits)</li>
+<li> NeoQuran (https://github.com/cahyadsn/neoquran)</li>
+<li> NeoWaris (https://github.com/cahyadsn/neowaris)</li>
+</ul>
+</div>
+</td>
+<td>
+    <div align="center">
+      <h2><b>How to Reach Me</b></h2>
+      <br>
+      <p>Please don't hesitate to contact me 
+        <br>if you need further information or help.
+      </p>
+      <br>
+      <a href="https://www.instagram.com/cahyadsn/" target="_blank">
+      <img align="center" alt="Cahya DSN | Instagram" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/instagram-new.png">
+      </a> &nbsp;&nbsp;
+      <a href="mailto:cahyadsn@gmail.com">
+      <img align="center" alt="Cahya DSN | Gmail" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/gmail.png">
+      </a> &nbsp;&nbsp;
+      <a href="https://www.linkedin.com/in/cahyadsn/">
+      <img align="center" alt="Cahya DSN | LinkedIn" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/linkedin.png">
+      </a> &nbsp;&nbsp;
+      <br>
+    </div>	  
+</td>
+</tr>
 </tbody>
 </table>
 
