@@ -6,9 +6,11 @@ Welcome to my GitHub profile! I am a passionate software developer with a keen i
 
 ## 🚀 About Me
 🔭 I’m currently working on :
-
+<table>
+<tbody>
+<tr>
+<td>
 <div>
-<div width="50%">
 <b>wilayah</b>
 <ul>
 <li> wilayah (https://github.com/cahyadsn/wilayah)</li>
@@ -21,7 +23,9 @@ Welcome to my GitHub profile! I am a passionate software developer with a keen i
 <li> wilayah_logo (https://github.com/cahyadsn/wilayah_logo)</li>
 </ul>
 </div>
-<div width="50%">
+</td>
+<td>
+<div>
 <b>psychometry</b>
 <ul>
 <li> DiSC (https://github.com/cahyadsn/disc)</li>
@@ -35,7 +39,10 @@ Welcome to my GitHub profile! I am a passionate software developer with a keen i
 <li> EPPS (private repository) </li>
 </ul 
 </div>
-</div>
+</td>
+</tr>
+</tbody>
+</table>
 
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
