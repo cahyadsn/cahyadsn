@@ -63,11 +63,14 @@ Welcome to my GitHub profile! I am a passionate software developer with a keen i
 <br>if you need further information or help.
 </p>
 <br>
-<a href="https://www.instagram.com/cahyadsn/" target="_blank">
-<img align="center" alt="Cahya DSN | Instagram" width="30em" src="https://img.icons8.com/ios-glyphs/50/0000ff/instagram-new.png">
+<a href="https://www.facebook.com/cahyadsn/">
+<img align="center" alt="Cahya DSN | Facebook" width="30em" src="https://img.icons8.com/ios-glyphs/50/0000ff/facebook.png">
 </a> 
 <a href="mailto:cahyadsn@gmail.com">
 <img align="center" alt="Cahya DSN | Gmail" width="30em" src="https://img.icons8.com/ios-glyphs/50/0000ff/gmail.png">
+</a> 
+<a href="https://www.instagram.com/cahyadsn/" target="_blank">
+<img align="center" alt="Cahya DSN | Instagram" width="30em" src="https://img.icons8.com/ios-glyphs/50/0000ff/instagram-new.png">
 </a> 
 <a href="https://www.linkedin.com/in/cahyadsn/">
 <img align="center" alt="Cahya DSN | LinkedIn" width="30em" src="https://img.icons8.com/ios-glyphs/50/0000ff/linkedin.png">
