@@ -7,7 +7,7 @@
 </div>
  Welcome to my GitHub profile!</p>
  <p>I am a passionate software developer with a keen interest in web development, data science, and open source projects.</p>
- <p>There's no instant success, but just believe '<i>imposible is nothing</i>'</p>
+ <p>There is no instant success, but just believe '<i>that nothing is impossible</i>'</p>
  <p>
 	 Here's a bit more about my repo:
 </p>
